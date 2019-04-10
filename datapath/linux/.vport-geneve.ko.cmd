@@ -1,0 +1,1 @@
+cmd_/root/workspace/openvswitch-2.10.1/datapath/linux/vport-geneve.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/workspace/openvswitch-2.10.1/datapath/linux/vport-geneve.ko /root/workspace/openvswitch-2.10.1/datapath/linux/vport-geneve.o /root/workspace/openvswitch-2.10.1/datapath/linux/vport-geneve.mod.o

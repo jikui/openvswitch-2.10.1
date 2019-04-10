@@ -1,0 +1,1 @@
+cmd_/root/workspace/openvswitch-2.10.1/datapath/linux/vport-vxlan.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/workspace/openvswitch-2.10.1/datapath/linux/vport-vxlan.ko /root/workspace/openvswitch-2.10.1/datapath/linux/vport-vxlan.o /root/workspace/openvswitch-2.10.1/datapath/linux/vport-vxlan.mod.o
